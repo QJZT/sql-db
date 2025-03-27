@@ -23,8 +23,8 @@
 
 ### 使用示例
 
-![1](_assets/1.png)
-![1](_assets/2.png)
-![1](_assets/3.png)
-![1](_assets/4.png)
-![1](_assets/5.png)
+![1](_assets/1.jpg)
+![1](_assets/2.jpg)
+![1](_assets/3.jpg)
+![1](_assets/4.jpg)
+![1](_assets/5.jpg)
