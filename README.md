@@ -1,30 +1,29 @@
-## sql-db
+# SQL Database Tool (sql-db)
 
-**Author:** qjzt_cn
-**Version:** 0.0.1
-**Type:** tool
-**Repo:** [https://github.com/QJZT/sql-db](https://github.com/QJZT/sql-db)
+[English](README.md) | [中文](README_CN.md)
 
-### Description
+A simple and efficient SQL database query tool.
 
-一个简单高效的 SQL 数据库查询工具。
+**Author:** qjzt_cn  
+**Version:** 0.0.1  
+**Type:** tool  
+**Repository:** [https://github.com/QJZT/sql-db](https://github.com/QJZT/sql-db)
 
-### 特点
+## Features
 
-- 轻量级依赖，仅使用两个核心库：
-
+- Lightweight dependencies with only two core libraries:
   - sqlalchemy>=2.0.0
   - psycopg2-binary>=2.9.9
 
-- 简化使用流程：
-  - 无需复杂的 URL 授权配置
-  - 直接传入数据库连接参数即可使用
-  - 支持标准 SQL 操作（SELECT）
+- Simplified workflow:
+  - No complex URL authorization configuration needed
+  - Direct database connection with simple parameters
+  - Support for standard SQL operations (SELECT)
 
-### 使用示例
+## Usage Examples
 
-![1](_assets/1.jpg)
-![1](_assets/2.jpg)
-![1](_assets/3.jpg)
-![1](_assets/4.jpg)
-![1](_assets/5.jpg)
+![Database Connection](_assets/1.jpg)
+![Query Interface](_assets/2.jpg)
+![Query Execution](_assets/3.jpg)
+![Results Display](_assets/4.jpg)
+![Advanced Features](_assets/5.jpg)
